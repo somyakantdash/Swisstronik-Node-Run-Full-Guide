@@ -12,9 +12,17 @@ Go: https://www.swisstronik.com/testnet2/dashboard
 
 1️⃣Task 1 - Deploy a simple contract using Hardhat
 
-Create new Repository & Copy this Code & Paste in ur Repo: https://github.com/abhiag/gatronk/blob/main/gatronk.sh
+Create new Repository & Copy this Code & Paste in ur Repo: https://github.com/somyakantdash/Swisstronik-Node-Run-Full-Guide/blob/main/task1.sh
 
 Command 1: chmod +x task1.sh && ./task1.sh
+
+Command 2: git add . && git commit -m "feat: initiated the project" && git push origin main
+
+2️⃣Task 2 - Mint 100 ERC-20 tokens
+
+Create again new .sh file in same repository & put this code: https://github.com/abhiag/gatronk/blob/main/erc20token.sh
+
+Command 1:  chmod +x erc20token.sh && ./erc20token.sh
 
 Command 2: git add . && git commit -m "feat: initiated the project" && git push origin main
 
